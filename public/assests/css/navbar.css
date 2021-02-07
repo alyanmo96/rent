@@ -1,0 +1,18 @@
+body{
+    direction: rtl;
+    max-width: 100%;
+    text-align: center;
+}
+.navbar{
+    background-color: #c5c3c3;     
+}
+
+.share_it{
+    width: 25px;
+}
+
+#navbar_logo{
+    max-width: 60px;
+    max-height: 60px;
+    border-radius:300px;
+}
