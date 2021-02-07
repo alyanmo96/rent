@@ -1,0 +1,32 @@
+body{
+    direction: rtl;
+    max-width: 100%;
+    text-align: center;
+}
+
+.navbar{
+  background-color: #c5c3c3;   
+ 
+}
+html {
+    scroll-behavior: smooth;
+  }
+  
+  #section1 {
+    height: 100px;
+    background-color: grey;
+    color: black;
+  }
+  
+  #section2 {
+    height: 100px;
+    background-color: yellow;
+    color: black;
+  }
+
+.list_of_messages{
+    background-color: lightblue;
+    max-width: 100%;
+    max-height: 500px;
+    overflow: scroll;
+}
